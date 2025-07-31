@@ -24,5 +24,33 @@ One day, we dream of a robotic surgical system capable of cooperating seamlessly
 <p style="color: #6c757d; margin-top: 0px; margin-bottom: 10px;">arXiv 2025</p>
 
 <div style="max-width: 600px; margin-top: 0px; margin-bottom: 0px;">
-{% include figure.liquid loading="eager" path="assets/img/publication_preview/twintrack_framework.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <iframe 
+    width="100%" 
+    height="315" 
+    src="https://www.youtube.com/embed/UGn-kZzQsEg" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+<br>
+
+<p style="margin-top: 0px; margin-bottom: 5px; font-size: 1.05rem;">
+<a href="https://ieeexplore.ieee.org/abstract/document/10610263" target="_blank">Real-to-Sim Deformable Object Manipulation: Optimizing Physics Models with Residual Mappings for Robotic Surgery</a>
+</p>
+
+<p style="color: #6c757d; margin-top: 0px; margin-bottom: 10px;">ICRA 2024</p>
+
+<div style="max-width: 600px; margin-top: 0px; margin-bottom: 0px;">
+  <iframe 
+    width="100%" 
+    height="315" 
+    src="https://www.youtube.com/embed/lRZt0kcs3lc" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 </div>
