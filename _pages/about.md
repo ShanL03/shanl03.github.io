@@ -6,11 +6,11 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="mailto:shan.lin.2@asu.edu">shan.lin.2@asu.edu</a></p>
-    <p><a href="https://scholar.google.com/citations?hl=en&user=HWIoDGYAAAAJ">Google Scholar</a>|<a href="/assets/pdf/ShanLin_CV_073025.pdf" target="_blank">CV</a></p>
+    <p><a href="https://scholar.google.com/citations?hl=en&user=HWIoDGYAAAAJ">Google Scholar</a>|<a href="https://www.linkedin.com/in/shan-lin-6810b7140/">LinkedIn</a>|<a href="/assets/pdf/ShanLin_CV_073025.pdf" target="_blank">CV</a></p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -33,3 +33,10 @@ I’m an Assistant Professor in [ECEE](https://ecee.engineering.asu.edu/) at Ari
 My research interests are in **AI + robotics, surgical robotics, and medical devices**, with the overarching goal of intelligent healthcare and autonomous surgery. My work covers robotic perception, motion planning, control, and manipulation. Outside of research, I love outdoor sports such as climbing and hiking.
 
 We are always looking for highly talented and motivated students! If you are interested in joining my lab, please visit our [Opportunities page](https://marginlab.github.io/opportunities) for more information.
+
+##### **Education**
+- Ph.D., Electrical Engineering, University of Washington, USA, 2017-2021
+- M.S., Electrical Engineering, Vanderbilt University, USA, 2015-2017
+- B.E., Xiamen University, China, 2011-2015
+
+<br>
