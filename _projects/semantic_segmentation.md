@@ -13,7 +13,7 @@ Being able to identify different semantic regions, such as various types of tiss
 
 ## Related Publications
 <p style="margin-top: 30px; margin-bottom: 5px; font-size: 1.05rem;">
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841524001713" target="_blank">Reducing annotating load: Active learning with synthetic images in surgical instrument segmentation</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841524001713" target="_blank">Reducing Annotating Load: Active Learning with Synthetic Images in Surgical Instrument Segmentation</a>
 </p>
 
 <p style="color: #6c757d; margin-top: 0px; margin-bottom: 10px;">Medical Image Analysis 2024</p>

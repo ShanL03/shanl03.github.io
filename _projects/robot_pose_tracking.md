@@ -13,7 +13,7 @@ Accurate robot pose estimation within its deployment environment is critical for
 
 ## Related Publications
 <p style="margin-top: 30px; margin-bottom: 5px; font-size: 1.05rem;">
-<a href="https://arxiv.org/abs/2409.10441" target="_blank">Ctrnet-X: Camera-to-Robot Pose Estimation in Real-World Conditions Using a Single Camera</a>
+<a href="https://arxiv.org/abs/2409.10441" target="_blank">CtRNet-X: Camera-to-Robot Pose Estimation in Real-World Conditions Using a Single Camera</a>
 </p>
 
 <p style="color: #6c757d; margin-top: 0px; margin-bottom: 10px;">ICRA 2025</p>

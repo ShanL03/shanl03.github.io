@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="mailto:shan.lin.2@asu.edu">shan.lin.2@asu.edu</a></p>
-    <p><a href="https://scholar.google.com/citations?hl=en&user=HWIoDGYAAAAJ">Google Scholar</a>|<a href="https://www.linkedin.com/in/shan-lin-6810b7140/">LinkedIn</a>|<a href="/assets/pdf/ShanLin_CV_073025.pdf" target="_blank">CV</a></p>
+    <p><a href="https://scholar.google.com/citations?hl=en&user=HWIoDGYAAAAJ">Google Scholar</a>|<a href="https://www.linkedin.com/in/shan-lin-6810b7140/">LinkedIn</a>|<a href="/assets/pdf/ShanLin_CV_073125.pdf" target="_blank">CV</a></p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

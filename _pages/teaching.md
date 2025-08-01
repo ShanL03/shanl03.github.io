@@ -31,17 +31,17 @@ Leonardo Dayal, 2025 -
 
 <h2 style="color: #0077cc; margin-bottom: 30px;">Past Mentorship During My Postdoc and PhD</h2>
 
-#### Former MS Students
+#### MS
 
 Pradhit Ongole, 2024, UCSD
 
 Tung-Yen Chiang, 2024, UCSD
 
-Zekai (Lucas) Liang, 2024, UCSD - Now Ph.D. Student at University of California San Diego, USA
+Zekai (Lucas) Liang, 2024, UCSD —— Now Ph.D. Student at University of California San Diego, USA
 
 Sharvari Deshmukh, 2024, UCSD
 
-Kaiyuan Wang, 2023 - 2024, UCSD —— Now Ph.D. Student at University of Southern California, US
+Kaiyuan Wang, 2023 - 2024, UCSD —— Now Ph.D. Student at University of Southern California, USA
 
 Saksham Jindal, 2023, UCSD
 
@@ -53,7 +53,7 @@ Chong He, 2021 - 2022, UCSD —— Now Ph.D. Student at Simon Fraser University,
 
 <p style="margin-bottom: 30px;">Xiao Liang, 2021 - 2022, UCSD —— Now Ph.D. Student at University of California San Diego, USA</p>
 
-#### Former Undergraduate Students
+#### Undergraduate
 
 Yijie He, 2024, UCSD
 
