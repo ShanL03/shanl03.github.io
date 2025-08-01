@@ -5,7 +5,6 @@ description:
 img: assets/img/qualitative_lab.png
 importance: 3
 category: work
-giscus_comments: true
 ---
 
 Accurate robot pose estimation within its deployment environment is critical for the robot to complete tasks. In robotic surgery, this is even more challenging as many surgical robots have cable-driven arms and instruments with motors mounted externally, away from the patient, often on the robot base, to maintain compactness for minimally invasive procedures. Therefore, estimating robot pose directly from encoders mounted on the motors is prone to large errors, which must be mitigated to ensure robust and safe surgical operations.
