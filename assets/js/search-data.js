@@ -447,7 +447,7 @@ ninja.data = [{
           title: 'Our paper BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction Using Neural Radiance Fields...',
           description: "",
           section: "News",},{id: "news-my-lab-medical-automation-robotics-and-general-intelligence-lab-margin-lab-is-established-subscribe-to-our-youtube-channel-for-future-updates",
-          title: 'My lab - Medical Automation, Robotics and General Intelligence Lab (MARGIN Lab) -...',
+          title: '📢 My lab - Medical Automation, Robotics and General Intelligence Lab (MARGIN Lab)...',
           description: "",
           section: "News",},{id: "news-our-paper-ctrnet-x-camera-to-robot-pose-estimation-in-real-world-conditions-using-a-single-camera-is-accepted-by-icra-2025",
           title: 'Our paper CtRNet-X: Camera-to-Robot Pose Estimation in Real-World Conditions Using a Single Camera...',
