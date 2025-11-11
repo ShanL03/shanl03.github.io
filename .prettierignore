@@ -11,3 +11,5 @@ _sass/font-awesome/*.scss
 _sass/tabler-icons/*.scss
 _scripts/*
 _posts/2015-07-15-code.md
+assets/js/distillpub/transforms.v2.js
+INSTALL.md
