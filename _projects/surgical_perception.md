@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Surgical Perception
-description: 
+description:
 img: assets/img/surgical_perception_projectfigure.png
 importance: 1
 category: work
@@ -13,6 +13,7 @@ related_publications: false
 <br>
 
 ## Related Publications
+
 <p style="margin-top: 30px; margin-bottom: 5px; font-size: 1.05rem;">
 <a href="https://ieeexplore.ieee.org/abstract/document/10943716" target="_blank">BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction Using Neural Radiance Fields</a>
 </p>

@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 6
 ---
@@ -11,9 +11,10 @@ nav_order: 6
 <p style="color: #6c757d; margin-top: 0px; margin-bottom: 10px;">Arizona State University, Tempe, USA</p>
 
 #### PhD
+
 Jiajun Cheng, 2025 -
 
-Haokai Xu, 2025 - 
+Haokai Xu, 2025 -
 
 <p style="margin-bottom: 30px;">Hiu Ching (Athena) Cheung, 2026 - </p>
 
@@ -87,7 +88,6 @@ Xinyu Gu, 2020, UW
 
 <p style="margin-bottom: 30px;">EE 200A ECE Lecture Series on Image Processing, Summer 2020</p>
 
-
 #### Course Developer
 
 <p style="color: #6c757d; margin-top: 0px; margin-bottom: 10px;">University of Washington's Global Innovation Exchange, Bellevue, USA</p>
@@ -106,7 +106,7 @@ EE 341 Discrete Time Linear Systems, Winter 2018, Summer 2018, Winter 2019
 
 EE 235 Continuous Time Linear Systems, Autumn 2020
 
-EE 233 Circuit Theory, Summer 2019 
+EE 233 Circuit Theory, Summer 2019
 
 <p style="margin-bottom: 30px;">EE 215 Fundamentals of Electrical Engineering, Spring 2018</p>
 

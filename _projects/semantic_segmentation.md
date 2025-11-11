@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Semantic Segmentation in Surgery
-description: 
+description:
 img: assets/img/endo1_seg.png
 importance: 4
 category: work
@@ -12,6 +12,7 @@ Being able to identify different semantic regions, such as various types of tiss
 <br>
 
 ## Related Publications
+
 <p style="margin-top: 30px; margin-bottom: 5px; font-size: 1.05rem;">
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841524001713" target="_blank">Reducing Annotating Load: Active Learning with Synthetic Images in Surgical Instrument Segmentation</a>
 </p>
