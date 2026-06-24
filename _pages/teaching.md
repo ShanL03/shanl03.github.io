@@ -12,21 +12,19 @@ nav_order: 6
 
 #### PhD
 
-Jiajun Cheng, 2025 -
+Jiajun Cheng, 2025 - Present
 
-Haokai Xu, 2025 -
+Haokai Xu, 2025 - Present
 
-<p style="margin-bottom: 30px;">Hiu Ching (Athena) Cheung, 2026 - </p>
-
-#### MS
-
-<p style="margin-bottom: 30px;">Xianwu Zhao, 2025 - </p>
+<p style="margin-bottom: 30px;">Hiu Ching (Athena) Cheung, Joining Fall 2026 </p>
 
 #### Undergraduate
 
-Spencer Romero, 2025 -
+Juha Choi, 2026 - Present
 
-Leonardo Dayal, 2025 -
+Spencer Romero, 2025
+
+Leonardo Dayal, 2025
 
 <br>
 
@@ -80,7 +78,7 @@ Xinyu Gu, 2020, UW
 
 <p style="color: #6c757d; margin-top: 0px; margin-bottom: 10px;">Arizona State University, Tempe, USA</p>
 
-<p style="margin-bottom: 30px;">EEE 203 Signals and Systems, Spring 2025</p>
+<p style="margin-bottom: 30px;">EEE 203 Signals and Systems, Spring 2025, Fall 2025, Spring 2026</p>
 
 #### Course Developer and Instructor
 
