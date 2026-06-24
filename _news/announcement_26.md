@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-3-11
+date: 2026-4-22
 inline: true
 related_posts: false
 ---
 
-Our paper [TrajPred: Trajectory-Conditioned Joint Embedding Prediction for Surgical Instrument-Tissue Interaction Recognition in Vision-Language Models](https://arxiv.org/abs/2603.06999) is available online.
+I am selected for the Mayo Clinic--ASU Alliance for Health Care 2026 Faculty Summer Residency program and will spend this summer as a Research Affiliate in Urology at Mayo Clinic Arizona.
