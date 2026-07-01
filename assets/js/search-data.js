@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "",
           section: "Navigation",
@@ -193,17 +186,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/post-bibliography/";
-          
-        },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
@@ -482,26 +464,41 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-trajpred-trajectory-conditioned-joint-embedding-prediction-for-surgical-instrument-tissue-interaction-recognition-in-vision-language-models-is-accepted-by-iros-2026",
           title: 'Our paper TrajPred: Trajectory-Conditioned Joint Embedding Prediction for Surgical Instrument-Tissue Interaction Recognition in...',
           description: "",
-          section: "News",},{id: "projects-robot-pose-tracking",
+          section: "News",},{id: "projects-multimodal-sensing",
+          title: 'Multimodal Sensing',
+          description: "Force • Tactile • Thermal",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/multimodal_sensing/";
+            },},{id: "projects-robot-pose-tracking",
           title: 'Robot Pose Tracking',
-          description: "",
+          description: "Occlusion • Calibration • In-the-Wild",
           section: "Projects",handler: () => {
               window.location.href = "/projects/robot_pose_tracking/";
             },},{id: "projects-robotic-manipulation",
           title: 'Robotic Manipulation',
-          description: "",
+          description: "Soft Object • Real-to-Sim • Sim-to-Real",
           section: "Projects",handler: () => {
               window.location.href = "/projects/robotic_manipulation/";
-            },},{id: "projects-semantic-segmentation-in-surgery",
-          title: 'Semantic Segmentation in Surgery',
-          description: "",
+            },},{id: "projects-semantic-segmentation",
+          title: 'Semantic Segmentation',
+          description: "Data Efficiency • Robust Features • Real-Time",
           section: "Projects",handler: () => {
               window.location.href = "/projects/semantic_segmentation/";
-            },},{id: "projects-surgical-perception",
-          title: 'Surgical Perception',
-          description: "",
+            },},{id: "projects-surgical-navigation",
+          title: 'Surgical Navigation',
+          description: "Updated Soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/surgical_navigation/";
+            },},{id: "projects-digital-twin",
+          title: 'Digital Twin',
+          description: "3D Perception • Implicit Neural Representations • Registration",
           section: "Projects",handler: () => {
               window.location.href = "/projects/surgical_perception/";
+            },},{id: "projects-surgical-workflow-modeling",
+          title: 'Surgical Workflow Modeling',
+          description: "Updated Soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/surgical_workflow_modeling/";
             },},{
         id: 'social-email',
         title: 'email',
