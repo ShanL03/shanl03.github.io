@@ -815,16 +815,28 @@ footer.sticky-bottom {
       position: absolute;
       inset: 0;
       z-index: 1;
-      background: rgba(255, 255, 255, 0.95);
-      -webkit-mask-image:
-        linear-gradient(to right, black 58%, rgba(0,0,0,0.7) 68%, rgba(0,0,0,0.3) 78%, transparent 90%),
-        linear-gradient(to top, black 30%, rgba(0,0,0,0.7) 44%, rgba(0,0,0,0.3) 56%, transparent 68%);
-      -webkit-mask-composite: source-in;
-      mask-image:
-        linear-gradient(to right, black 58%, rgba(0,0,0,0.7) 68%, rgba(0,0,0,0.3) 78%, transparent 90%),
-        linear-gradient(to top, black 30%, rgba(0,0,0,0.7) 44%, rgba(0,0,0,0.3) 56%, transparent 68%);
-      mask-composite: intersect;
       pointer-events: none;
+      /* fallback for browsers without mask-composite support */
+      background: linear-gradient(
+        to right,
+        rgba(255, 255, 255, 0.95) 0%,
+        rgba(255, 255, 255, 0.95) 55%,
+        rgba(255, 255, 255, 0.7) 65%,
+        rgba(255, 255, 255, 0.3) 75%,
+        transparent 88%
+      );
+      /* enhanced version for browsers that support mask-composite */
+      @supports (mask-composite: intersect) or (-webkit-mask-composite: source-in) {
+        background: rgba(255, 255, 255, 0.95);
+        -webkit-mask-image:
+          linear-gradient(to right, black 58%, rgba(0,0,0,0.7) 68%, rgba(0,0,0,0.3) 78%, transparent 90%),
+          linear-gradient(to top, black 30%, rgba(0,0,0,0.7) 44%, rgba(0,0,0,0.3) 56%, transparent 68%);
+        -webkit-mask-composite: source-in;
+        mask-image:
+          linear-gradient(to right, black 58%, rgba(0,0,0,0.7) 68%, rgba(0,0,0,0.3) 78%, transparent 90%),
+          linear-gradient(to top, black 30%, rgba(0,0,0,0.7) 44%, rgba(0,0,0,0.3) 56%, transparent 68%);
+        mask-composite: intersect;
+      }
     }
 
     .project-overlay-body {
