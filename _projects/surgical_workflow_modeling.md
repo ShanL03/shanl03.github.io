@@ -5,7 +5,7 @@ description: Updated Soon
 img:
 importance: 1
 category: current
-horizontal: false
+horizontal: true
 ---
 
 <style>

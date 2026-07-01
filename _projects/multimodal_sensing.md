@@ -2,7 +2,7 @@
 layout: page
 title: Multimodal Sensing
 description: Force • Tactile • Thermal
-img: assets/img/publication_preview/palpad.png
+img:
 importance: 5
 category: current
 horizontal: false

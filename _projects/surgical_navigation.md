@@ -5,5 +5,5 @@ description: Updated Soon
 img:
 importance: 2
 category: current
-horizontal: false
+horizontal: true
 ---
