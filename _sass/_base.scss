@@ -816,13 +816,13 @@ footer.sticky-bottom {
       inset: 0;
       z-index: 1;
       pointer-events: none;
-      background: linear-gradient(
-        to top right,
+      background: radial-gradient(
+        ellipse 110% 90% at 0% 100%,
         rgba(255, 255, 255, 0.95) 0%,
         rgba(255, 255, 255, 0.95) 20%,
-        rgba(255, 255, 255, 0.7) 35%,
-        rgba(255, 255, 255, 0.3) 50%,
-        transparent 65%
+        rgba(255, 255, 255, 0.6) 40%,
+        rgba(255, 255, 255, 0.2) 60%,
+        transparent 75%
       );
     }
 
