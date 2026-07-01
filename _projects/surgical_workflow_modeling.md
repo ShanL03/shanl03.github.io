@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Surgical Workflow Modeling
-description: Updated Soon
-img:
+description: Vision-Language • Trustworthy AI • Skill Assessment
+img: assets/img/workflow_cover.png
 importance: 1
 category: current
 horizontal: true

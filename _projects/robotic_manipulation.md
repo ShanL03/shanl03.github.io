@@ -2,7 +2,7 @@
 layout: page
 title: Robotic Manipulation
 description: Soft Object • Real-to-Sim • Sim-to-Real
-img: assets/img/12C10DFC-8D8D-4267-97A7-749CB256D863_1_105_c.jpeg
+img: assets/img/manipulation_cover.png
 importance: 4
 category: current
 horizontal: false
