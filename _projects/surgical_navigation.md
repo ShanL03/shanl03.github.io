@@ -18,6 +18,7 @@ horizontal: true
   font-weight: 700;
   margin-bottom: 0.35rem;
   border-bottom: none !important;
+  color: var(--global-text-color);
 }
 .snav-title-hr {
   border: none;
