@@ -13,3 +13,5 @@ _scripts/*
 _posts/2015-07-15-code.md
 assets/js/distillpub/transforms.v2.js
 INSTALL.md
+_layouts/bib.liquid
+_pages/projects.md
