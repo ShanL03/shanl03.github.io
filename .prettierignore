@@ -17,3 +17,5 @@ _includes/projects.liquid
 _includes/projects_horizontal.liquid
 _layouts/bib.liquid
 _sass/_base.scss
+_pages/*.md
+_projects/*.md
