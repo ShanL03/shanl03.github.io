@@ -496,7 +496,7 @@ ninja.data = [{
               window.location.href = "/projects/surgical_perception/";
             },},{id: "projects-surgical-workflow-modeling",
           title: 'Surgical Workflow Modeling',
-          description: "Updated Soon",
+          description: "Vision-Language • Trustworthy AI • Skill Assessment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/surgical_workflow_modeling/";
             },},{
