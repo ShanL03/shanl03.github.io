@@ -42,7 +42,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/digital_twin/";
+                window.location.href = "/projects/surgical_perception/";
               },
             },{id: "dropdown-robotic-manipulation",
               title: "Robotic Manipulation",
