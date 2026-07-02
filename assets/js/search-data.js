@@ -9,14 +9,77 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "Projects",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-teaching",
+  },{id: "dropdown-all-projects",
+              title: "All Projects",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/";
+              },
+            },{id: "dropdown-current",
+              title: "Current",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-surgical-workflow-modeling",
+              title: "Surgical Workflow Modeling",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/surgical_workflow_modeling/";
+              },
+            },{id: "dropdown-surgical-navigation",
+              title: "Surgical Navigation",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/surgical_navigation/";
+              },
+            },{id: "dropdown-digital-twin",
+              title: "Digital Twin",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/digital_twin/";
+              },
+            },{id: "dropdown-robotic-manipulation",
+              title: "Robotic Manipulation",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/robotic_manipulation/";
+              },
+            },{id: "dropdown-multimodal-sensing",
+              title: "Multimodal Sensing",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/multimodal_sensing/";
+              },
+            },{id: "dropdown-past",
+              title: "Past",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-robot-pose-tracking",
+              title: "Robot Pose Tracking",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/robot_pose_tracking/";
+              },
+            },{id: "dropdown-semantic-segmentation",
+              title: "Semantic Segmentation",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/semantic_segmentation/";
+              },
+            },{id: "nav-teaching",
           title: "Teaching",
           description: "",
           section: "Navigation",
