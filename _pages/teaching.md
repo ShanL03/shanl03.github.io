@@ -71,6 +71,14 @@ nav_order: 6
 .teach-table td { padding: 0.55rem 0.5rem; vertical-align: top; }
 .teach-table td:first-child { font-weight: 600; min-width: 180px; }
 .teach-table td:nth-child(2) { min-width: 100px; color: #6c757d; white-space: nowrap; }
+
+@media (max-width: 640px) {
+  .teach-table td { display: block; padding: 0.15rem 0.4rem; min-width: 0; white-space: normal; }
+  .teach-table td:first-child { padding-top: 0.5rem; font-weight: 600; }
+  .teach-table td:nth-child(2) { color: #6c757d; }
+  .teach-table td:last-child { padding-bottom: 0.5rem; }
+  .teach-table td[rowspan] { display: block; }
+}
 </style>
 
 <!-- As an Advisor -->

@@ -1465,6 +1465,36 @@ ninja-keys::part(ninja-input-wrapper) {
   }
 }
 
+@media (max-width: 576px) {
+  .publications ol.bibliography li .row {
+    display: block !important;
+  }
+  .publications ol.bibliography li .col.abbr {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-right: 0 !important;
+    margin-bottom: 0.75rem;
+  }
+  .publications ol.bibliography li .col.abbr figure,
+  .publications ol.bibliography li .col.abbr figure picture {
+    display: block !important;
+    width: 100% !important;
+  }
+  .publications ol.bibliography li .col.abbr .preview {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+  }
+  .publications ol.bibliography li .col-sm-8 {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
 // popover is used for annotation in bib.liquid
 .popover {
   background-color: var(--global-bg-color);
