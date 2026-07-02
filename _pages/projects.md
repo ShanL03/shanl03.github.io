@@ -17,7 +17,7 @@ children:
   - title: Surgical Navigation
     permalink: /projects/surgical_navigation/
   - title: Digital Twin
-    permalink: /projects/digital_twin/
+    permalink: /projects/surgical_perception/
   - title: Robotic Manipulation
     permalink: /projects/robotic_manipulation/
   - title: Multimodal Sensing

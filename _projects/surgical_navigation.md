@@ -32,5 +32,5 @@ horizontal: true
 <section class="snav-section" style="margin-top: 0.5rem;">
   <h2 class="snav-section-title">Surgical Navigation</h2>
   <hr class="snav-title-hr">
-  <p style="font-size: 0.95rem; line-height: 1.65; color: #6c757d;">Updated Soon</p>
+  <p style="font-size: 0.95rem; line-height: 1.65; color: #6c757d;">Coming Soon</p>
 </section>
