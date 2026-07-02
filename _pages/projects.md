@@ -5,6 +5,30 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 3
+dropdown: true
+children:
+  - title: All Projects
+    permalink: /projects/
+  - title: divider
+  - title: Current
+    type: header
+  - title: Surgical Workflow Modeling
+    permalink: /projects/surgical_workflow_modeling/
+  - title: Surgical Navigation
+    permalink: /projects/surgical_navigation/
+  - title: Digital Twin
+    permalink: /projects/digital_twin/
+  - title: Robotic Manipulation
+    permalink: /projects/robotic_manipulation/
+  - title: Multimodal Sensing
+    permalink: /projects/multimodal_sensing/
+  - title: divider
+  - title: Past
+    type: header
+  - title: Robot Pose Tracking
+    permalink: /projects/robot_pose_tracking/
+  - title: Semantic Segmentation
+    permalink: /projects/semantic_segmentation/
 display_categories: [current, past]
 horizontal: false
 _styles: >

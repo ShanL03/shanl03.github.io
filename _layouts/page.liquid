@@ -23,6 +23,38 @@ layout: default
     {{ content }}
   </article>
 
+  {% if page.collection == 'projects' %}
+    {% assign current_projects = site.projects | where: "category", "current" | sort: "importance" %}
+    {% assign past_projects = site.projects | where: "category", "past" | sort: "importance" %}
+    {% assign all_projects = current_projects | concat: past_projects %}
+    {% assign prev_project = nil %}
+    {% assign next_project = nil %}
+    {% assign found = false %}
+    {% for proj in all_projects %}
+      {% if found and next_project == nil %}{% assign next_project = proj %}{% endif %}
+      {% if proj.url == page.url %}{% assign found = true %}{% endif %}
+      {% unless found %}{% assign prev_project = proj %}{% endunless %}
+    {% endfor %}
+    <nav style="display:flex; justify-content:space-between; align-items:center; margin-top:3rem; padding-top:1.2rem; border-top:1px solid var(--global-divider-color); font-size:0.88rem;">
+      <div>
+        {% if prev_project %}
+          <a href="{{ prev_project.url | relative_url }}" style="display:flex; flex-direction:column; gap:0.15rem; color:var(--global-theme-color); text-decoration:none;">
+            <span style="font-size:0.75rem; color:#6c757d; font-weight:400;">← Previous</span>
+            <span style="font-weight:500;">{{ prev_project.title }}</span>
+          </a>
+        {% endif %}
+      </div>
+      <div style="text-align:right;">
+        {% if next_project %}
+          <a href="{{ next_project.url | relative_url }}" style="display:flex; flex-direction:column; gap:0.15rem; color:var(--global-theme-color); text-decoration:none; align-items:flex-end;">
+            <span style="font-size:0.75rem; color:#6c757d; font-weight:400;">Next →</span>
+            <span style="font-weight:500;">{{ next_project.title }}</span>
+          </a>
+        {% endif %}
+      </div>
+    </nav>
+  {% endif %}
+
   {% if page.related_publications %}
     <h2>References</h2>
     <div class="publications">
