@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Surgical Navigation
-description: Updated Soon
+description: Coming Soon
 img: assets/img/navigation.png
 importance: 2
 category: current
