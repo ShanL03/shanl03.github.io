@@ -130,7 +130,7 @@ horizontal: false
 <section class="rmanip-section" style="margin-top: 0.5rem;">
   <h2 class="rmanip-section-title">Robotic Manipulation</h2>
   <hr class="rmanip-title-hr">
-  <p style="font-size: 0.95rem; line-height: 1.65;">One day, we dream of a robotic surgical system capable of cooperating seamlessly with surgeons, or even performing surgeries by itself. As a first step toward this goal, we could break down a surgery into different steps, targeting smaller tasks such as deformable object manipulation (tensioning, cutting, ablation, etc.).</p>
+  <p style="font-size: 0.95rem; line-height: 1.65;">Will robots one day cooperate seamlessly with humans, or even perform complex tasks autonomously? My goal is to understand what still prevents robots from achieving this. Is it limited perception, the gap between simulation and the real world, or insufficient memory and reasoning?</p>
   <div class="row mt-4 justify-content-center" style="padding: 0 3rem;">
     <div class="col-6 col-md-3">
       <div class="rmanip-feature">

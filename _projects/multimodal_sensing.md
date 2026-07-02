@@ -114,7 +114,7 @@ horizontal: false
 <section class="msens-section" style="margin-top: 0.5rem;">
   <h2 class="msens-section-title">Multimodal Sensing</h2>
   <hr class="msens-title-hr">
-  <p style="font-size: 0.95rem; line-height: 1.65;">Effective surgical assistance requires robots to perceive beyond what cameras alone can provide. By integrating force, tactile, and thermal sensing, we aim to give robotic systems a richer understanding of tissue state and instrument-tissue interactions — enabling safer, more adaptive surgical interventions.</p>
+  <p style="font-size: 0.95rem; line-height: 1.65;">Robotic systems rely on perception to understand and safely interact with the physical world. However, no single sensing modality can fully capture the complexity of real-world environments. My research investigates how complementary sensory information can be integrated to improve robotic understanding, decision-making, and autonomy in complex tasks.</p>
 </section>
 
 <!-- Related Publications -->

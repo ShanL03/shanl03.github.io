@@ -90,7 +90,7 @@ related_publications: false
 <section class="dtwin-section" style="margin-top: 0.5rem;">
   <h2 class="dtwin-section-title">Digital Twin</h2>
   <hr class="dtwin-title-hr">
-  <p style="font-size: 0.95rem; line-height: 1.65;">3D scene reconstruction and tracking play an important role in achieving autonomous surgery, providing crucial information for scene understanding, path planning, and navigation. This task is very challenging due to the need to handle unstructured, dynamic, and deformable surgical scenes with texture-less and moist tissues and instruments.</p>
+  <p style="font-size: 0.95rem; line-height: 1.65;">Although digital twins are not a new concept, their definition remains somewhat unclear. In many applications, there is still a considerable gap between their capabilities and practical needs. Building upon 3D perception, semantic understanding, and multimodal AI, my goal is to identify meaningful application scenarios and build digital twins that truly matter.</p>
 </section>
 
 <section class="dtwin-section">

@@ -114,7 +114,7 @@ horizontal: true
 <section class="swmod-section" style="margin-top: 0.5rem;">
   <h2 class="swmod-section-title">Surgical Workflow Modeling</h2>
   <hr class="swmod-title-hr">
-  <p style="font-size: 0.95rem; line-height: 1.65;">Understanding the structure and semantics of surgical procedures is essential for building intelligent surgical assistants. We develop models that recognize surgical phases, instrument-tissue interactions, and procedural context — enabling systems that can anticipate the next steps, assess surgeon skill, and provide real-time guidance.</p>
+  <p style="font-size: 0.95rem; line-height: 1.65;">Understanding the progress of a surgical procedure, including its current phase, ongoing actions, and likely next steps, is essential for building intelligent surgical assistants. We develop models that understand instrument–tissue interactions, recognize surgical phases, and infer surgical intent. Recently, we established a collaboration with Mayo Clinic Arizona to continue developing AI systems that address unmet clinical needs.</p>
 </section>
 
 <!-- Related Publications -->
