@@ -486,7 +486,7 @@ ninja.data = [{
               window.location.href = "/projects/semantic_segmentation/";
             },},{id: "projects-surgical-navigation",
           title: 'Surgical Navigation',
-          description: "Updated Soon",
+          description: "Coming Soon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/surgical_navigation/";
             },},{id: "projects-digital-twin",
