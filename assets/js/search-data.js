@@ -518,7 +518,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-detection-of-fragmentation-while-dusting-during-retrograde-intrarenal-laser-lithotripsy-a-novel-computer-vision-and-perception-pipeline-has-been-published-in-lasers-in-medical-science",
           title: 'Our paper Detection of Fragmentation While Dusting During Retrograde Intrarenal Laser Lithotripsy: A...',
           description: "",
-          section: "News",},{id: "news-i-am-selected-for-the-mayo-clinic-asu-alliance-for-health-care-2026-faculty-summer-residency-program-and-will-spend-this-summer-as-a-research-affiliate-in-urology-at-mayo-clinic-arizona",
+          section: "News",},{id: "news-i-am-selected-for-the-mayo-clinic-asu-alliance-for-health-care-2026-faculty-summer-residency-program-and-am-serving-as-a-research-affiliate-in-urology-at-mayo-clinic-arizona-for-one-year",
           title: 'I am selected for the Mayo Clinic–ASU Alliance for Health Care 2026 Faculty...',
           description: "",
           section: "News",},{id: "news-our-workshop-2nd-international-workshop-on-the-evolving-landscape-of-surgical-robotics-elsr-2026-is-accepted-by-iros-2026",
