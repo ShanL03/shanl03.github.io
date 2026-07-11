@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am selected for the Mayo Clinic--ASU Alliance for Health Care 2026 Faculty Summer Residency program and will spend this summer as a Research Affiliate in Urology at Mayo Clinic Arizona.
+I am selected for the Mayo Clinic--ASU Alliance for Health Care 2026 Faculty Summer Residency program and am serving as a Research Affiliate in Urology at Mayo Clinic Arizona for one year.
